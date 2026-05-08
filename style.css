@@ -98,5 +98,6 @@ body {
 
     .card-container {
         padding: 10px;
+        grid-template-columns: 1fr;
     }
 }
